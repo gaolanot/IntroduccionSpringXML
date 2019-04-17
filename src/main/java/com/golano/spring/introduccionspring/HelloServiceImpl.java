@@ -13,6 +13,6 @@ public class HelloServiceImpl implements HelloService{
     //Implementación método saludar
     @Override
     public void saludar() {
-            
+        System.out.println("Ejercicio de introducción Spring");
     }
 }
